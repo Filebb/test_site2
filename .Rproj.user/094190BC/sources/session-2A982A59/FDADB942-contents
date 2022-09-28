@@ -9,13 +9,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Different
+      - href: another_one.qmd
+        text: Another One
 
 format:
   html:
-    theme:
-      light: cosmo
-      dark: darkly
+    theme: united
     css: styles.css
     toc: true
 

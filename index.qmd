@@ -2,4 +2,9 @@
 title: "Home"
 ---
 
-This is a Quarto website.
+This is what happens when you load the `tidyverse` package.
+
+```{r}
+library(tidyverse)
+```
+
