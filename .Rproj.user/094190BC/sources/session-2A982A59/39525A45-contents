@@ -2,8 +2,16 @@
 title: "About"
 ---
 
-About this site
+About this site.
+
+Some code example:
 
 ```{r}
-1 + 1
+a <- 2
+b <- 3
+
+c <- a * b
+
+cat(c)
 ```
+
