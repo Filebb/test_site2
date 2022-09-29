@@ -18,7 +18,7 @@
     "href": "another_one.html",
     "title": "Another One",
     "section": "",
-    "text": "This is another section."
+    "text": "An this is an equation.\n\\[\n\\int_{-\\infty}^{+\\infty} e^{-x^2}\\,dx = \\sqrt{\\pi}\n\\]"
   },
   {
     "objectID": "menu_1.html",
