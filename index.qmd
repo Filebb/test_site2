@@ -1,5 +1,6 @@
 ---
 title: "Home"
+editor: source
 ---
 
 This is what happens when you load the `tidyverse` package.

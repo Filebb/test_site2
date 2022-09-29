@@ -13,6 +13,16 @@ website:
         text: Different
       - href: another_one.qmd
         text: Another One
+      - text: Menu
+        menu:
+          - href: menu_1.qmd
+            text: Menu 1
+          - href: menu_2.qmd
+            text: Menu 2
+          - href: menu_3.qmd
+            text: Menu 3
+          - href: menu_4.qmd
+            text: Menu 4
 
 format:
   html:
@@ -20,5 +30,5 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 

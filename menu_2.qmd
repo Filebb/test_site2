@@ -1,0 +1,10 @@
+---
+title: "Menu 2"
+editor: source
+---
+
+Topic 2
+
+```{r}
+cat("code 2")
+```

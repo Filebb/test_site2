@@ -1,3 +1,6 @@
 ---
 title: "Another One"
+editor: source
 ---
+
+This is another section.

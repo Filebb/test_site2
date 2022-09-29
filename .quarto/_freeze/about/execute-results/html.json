@@ -1,8 +1,10 @@
 {
-  "hash": "5888a5fbb0666a6c4fa3facaa5a044ff",
+  "hash": "e46b2010c61b32f896880c95eb7c26e3",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site.\n\nSome code example:\n\n\n::: {.cell}\n\n```{.r .cell-code}\na <- 2\nb <- 3\n\nc <- a * b\n\ncat(c)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n6\n```\n:::\n:::\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"About\"\neditor: source\n---\n\n\nAbout this site.\n\nSome code example:\n\n\n::: {.cell}\n\n```{.r .cell-code}\na <- 2\nb <- 3\n\nc <- a * b\n\ncat(c)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n6\n```\n:::\n:::\n",
+    "supporting": [
+      "about_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -1,0 +1,24 @@
+---
+title: "Menu 4"
+editor: source
+---
+
+# Packages
+
+```{r}
+library(tidyverse)
+library(palmerpenguins)
+```
+
+
+# Section
+
+Topic.
+
+```{r}
+penguins %>%
+    drop_na() %>%
+    ggplot(mapping = aes(x = bill_length_mm, y = bill_depth_mm, col = sex)) +
+    geom_point(size = 7, alpha = 0.4) +
+    facet_wrap(~species)
+```
